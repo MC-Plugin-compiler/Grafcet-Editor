@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Grafcet creator",
+  "name": "A simple web page to make and edit grafects",
   "icons": [
     {
       "src": "favicon.ico",
